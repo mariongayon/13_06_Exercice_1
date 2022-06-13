@@ -8,9 +8,9 @@ namespace DriveLicence
 {
     public class CarTemplate : ICar
     {
-        string licencePlate;
-        float maxLegalSpeed;
-        int maxPassengerCount;
+        protected string licencePlate;
+        protected float maxLegalSpeed;
+        protected int maxPassengerCount;
 
         public CarTemplate(string licencePlate, float maxLegalSpeed, int maxPassengerCount)
         {
@@ -19,7 +19,7 @@ namespace DriveLicence
             this.maxPassengerCount = maxPassengerCount;
         }
 
-        public string LicencePlate()
+        string IVehicule.LicencePlate()
         {
             throw new NotImplementedException();
         }

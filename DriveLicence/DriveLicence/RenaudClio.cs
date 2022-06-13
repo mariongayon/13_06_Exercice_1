@@ -17,17 +17,17 @@ namespace DriveLicence
 
         public string LicencePlate()
         {
-          return implementation.LicencePlate();
+            return ((IVehicule)implementation).LicencePlate();
         }
 
         public float MaxLegalSpeed()
         {
-            return implementation.MaxLegalSpeed();
+            return ((IRoadVehicule)implementation).MaxLegalSpeed();
         }
 
         public int MaxPassengerCount()
         {
-            return implementation.MaxPassengerCount();
+            return ((ICar)implementation).MaxPassengerCount();
         }
     }
 }

@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrateur\\source\\repos\\13_06_Exercie_1\\DriveLicence\\DriveLicence\\DriveLicence.csproj",
+      "projectUniqueName": "C:\\Users\\Administrateur\\source\\repos\\13_06_Exercice_1\\DriveLicence\\DriveLicence\\DriveLicence.csproj",
       "projectName": "DriveLicence",
-      "projectPath": "C:\\Users\\Administrateur\\source\\repos\\13_06_Exercie_1\\DriveLicence\\DriveLicence\\DriveLicence.csproj",
+      "projectPath": "C:\\Users\\Administrateur\\source\\repos\\13_06_Exercice_1\\DriveLicence\\DriveLicence\\DriveLicence.csproj",
       "packagesPath": "C:\\Users\\Administrateur\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrateur\\source\\repos\\13_06_Exercie_1\\DriveLicence\\DriveLicence\\obj\\",
+      "outputPath": "C:\\Users\\Administrateur\\source\\repos\\13_06_Exercice_1\\DriveLicence\\DriveLicence\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
