@@ -1,0 +1,16 @@
+C:\Users\Administrateur\source\repos\13_06_Exercice_1\DriveLicence\DriveLicence\bin\Debug\net5.0\DriveLicence.exe
+C:\Users\Administrateur\source\repos\13_06_Exercice_1\DriveLicence\DriveLicence\bin\Debug\net5.0\DriveLicence.deps.json
+C:\Users\Administrateur\source\repos\13_06_Exercice_1\DriveLicence\DriveLicence\bin\Debug\net5.0\DriveLicence.runtimeconfig.json
+C:\Users\Administrateur\source\repos\13_06_Exercice_1\DriveLicence\DriveLicence\bin\Debug\net5.0\DriveLicence.runtimeconfig.dev.json
+C:\Users\Administrateur\source\repos\13_06_Exercice_1\DriveLicence\DriveLicence\bin\Debug\net5.0\DriveLicence.dll
+C:\Users\Administrateur\source\repos\13_06_Exercice_1\DriveLicence\DriveLicence\bin\Debug\net5.0\ref\DriveLicence.dll
+C:\Users\Administrateur\source\repos\13_06_Exercice_1\DriveLicence\DriveLicence\bin\Debug\net5.0\DriveLicence.pdb
+C:\Users\Administrateur\source\repos\13_06_Exercice_1\DriveLicence\DriveLicence\obj\Debug\net5.0\DriveLicence.csproj.AssemblyReference.cache
+C:\Users\Administrateur\source\repos\13_06_Exercice_1\DriveLicence\DriveLicence\obj\Debug\net5.0\DriveLicence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\source\repos\13_06_Exercice_1\DriveLicence\DriveLicence\obj\Debug\net5.0\DriveLicence.AssemblyInfoInputs.cache
+C:\Users\Administrateur\source\repos\13_06_Exercice_1\DriveLicence\DriveLicence\obj\Debug\net5.0\DriveLicence.AssemblyInfo.cs
+C:\Users\Administrateur\source\repos\13_06_Exercice_1\DriveLicence\DriveLicence\obj\Debug\net5.0\DriveLicence.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\source\repos\13_06_Exercice_1\DriveLicence\DriveLicence\obj\Debug\net5.0\DriveLicence.dll
+C:\Users\Administrateur\source\repos\13_06_Exercice_1\DriveLicence\DriveLicence\obj\Debug\net5.0\ref\DriveLicence.dll
+C:\Users\Administrateur\source\repos\13_06_Exercice_1\DriveLicence\DriveLicence\obj\Debug\net5.0\DriveLicence.pdb
+C:\Users\Administrateur\source\repos\13_06_Exercice_1\DriveLicence\DriveLicence\obj\Debug\net5.0\DriveLicence.genruntimeconfig.cache

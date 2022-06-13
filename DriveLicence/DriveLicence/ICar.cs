@@ -8,6 +8,6 @@ namespace DriveLicence
 {
     public interface ICar : IRoadVehicule
     {
-       int MaxPassengerCount();
+      public int MaxPassengerCount();
     }
 }

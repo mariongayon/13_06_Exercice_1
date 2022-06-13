@@ -8,6 +8,6 @@ namespace DriveLicence
 {
     public interface IRoadVehicule : IVehicule
     {
-        float MaxLegalSpeed();
+       public float MaxLegalSpeed();
     }
 }

@@ -8,6 +8,6 @@ namespace DriveLicence
 {
    public interface IVehicule
     {
-       string LicencePlate();
+      public string LicencePlate();
     }
 }
